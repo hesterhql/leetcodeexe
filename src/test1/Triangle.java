@@ -7,6 +7,7 @@ public class Triangle implements Shape{
 		// TODO Auto-generated method stub
 		System.out.println("Triangle was drawing.");
 		System.out.println("new line");
+		System.out.println("second line ");
 	}
 
 }

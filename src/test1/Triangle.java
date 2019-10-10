@@ -8,6 +8,7 @@ public class Triangle implements Shape{
 		System.out.println("Triangle was drawing.");
 		System.out.println("new line");
 		System.out.println("second line ");
+		//add comments
 	}
 
 }
